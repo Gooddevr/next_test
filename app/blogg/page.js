@@ -2,7 +2,7 @@
 const  Bloging= ()=> {
     return (<div className="justdiv">
         <h1>
-    blog page
+    blog pagea
 </h1>
 </div>
     )
