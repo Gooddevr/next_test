@@ -19,7 +19,7 @@ export default function RootLayout({ children, formregis }) {
             <br />
             <Link href={"/second"}>SECOND</Link>
             <br />
-            <Link href={"/blogg/slugpage"}>slugpage</Link>
+            <Link href={"/blogg/"}>BLOGG</Link>
             <br />
             <Link href={"/regis"}>REGISTRATION</Link>
             <br />
