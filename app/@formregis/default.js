@@ -1,8 +1,8 @@
 
 
-const  defformreg= ()=> {
+const  Defformreg= ()=> {
     return (null
         
     )
 }
-export default defformreg
+export default Defformreg
